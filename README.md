@@ -144,10 +144,10 @@ npm run build
 
 **Firebase Hosting**
 
-> Replace with your deployed URL
+> 
 
 ```
-https://your-project.web.app
+https://ahead-ai-6e3db.web.app
 ```
 
 ---
