@@ -97,19 +97,6 @@ The application helps users make smarter decisions before deadlines are missed r
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots here after uploading them.
-
-- Login Page
-- Dashboard
-- AI Action Plan
-- Future Simulation
-- Execution Timeline
-- Recovery Strategy
-
----
-
 # 🚀 Installation
 
 Clone the repository
